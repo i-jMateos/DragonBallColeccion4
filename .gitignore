@@ -1,0 +1,20 @@
+# Archivos de usuario de Xcode
+*.xcuserdatad
+*.xcuserstate
+*.xcworkspace
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
+Packages/
+DerivedData/
+
+# Archivos temporales
+*.swp
+*.lock
+*.log
